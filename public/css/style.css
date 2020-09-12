@@ -1,0 +1,47 @@
+.body
+{
+    background-color: white;
+
+    font-size: 18px;
+    font-family: 'Cairo', sans-serif;
+    color: black;
+}
+.header
+{
+    color: white;
+    background: rgb(199,27,87);
+background: linear-gradient(90deg, rgba(199,27,87,1) 0%, rgba(4,74,82,1) 100%);
+height: 90vh;
+
+}
+.col1
+{
+    position: relative;
+}
+.col11
+{
+    position: absolute;
+    top: 40%;
+}
+#custmers
+{
+    box-shadow: 1px 5px 5px 5px rgb(97, 96, 96);
+}
+#services , #contactus
+{
+    /* background-color: rgb(255, 204, 243); */
+    background-color: rgb(218, 218, 218);
+    /* color: black; */
+}
+.card-body ,.card
+{
+    /* background-color: rgb(95, 94, 94); */
+    box-shadow: 1px 5px 5px 5px rgb(190, 190, 190);
+    position: relative;
+
+}
+.bbtn
+{
+    position: absolute;
+    bottom: 20px;
+}
